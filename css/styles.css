@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(227, 205, 247);
+}
+nav{
+    border-radius: 10px;
+    
+}
+
+div#carouselExample{
+    margin-top: 10px;
+}
+img#imgcarusel{
+    width: 5px;
+}
+img#perritos{
+
+    width: 100%;
+    height: 250px;
+    
+}
+
+div#cards{
+    margin-top: 10px;
+   
+}
+div#cardperrito{
+    margin-top: 10px;
+}
+
+
+
+div#pie{
+    margin-top: 20px;
+}
